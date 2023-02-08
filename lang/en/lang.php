@@ -4,7 +4,7 @@ return [
     'plugin' => [
         'name' => 'Developer Tools',
         'description' => 'Useful features for developers.',
-        'author' => 'Gergő Szabó'
+        'author' => 'Gergő Szabó (gviabcua mod)'
     ],
     'editor' => [
         'menu_label' => 'Code editor',
