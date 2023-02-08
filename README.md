@@ -1,5 +1,5 @@
 # Developer Tools Plugin
-It is a must-have plugin for you, if you use the October's Docs a lot or you want to use the build-in wysiwyg editor on the Content page.
+It is a must-have plugin for you, if you use the Winter's Docs a lot or you want to use the build-in wysiwyg editor on the Content page.
 
 ## Main features
 * __Edit directly plugins with the online code editor!__
