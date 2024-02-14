@@ -295,7 +295,7 @@ class Asset extends Extendable
     public static function getEditableExtensions()
     {
         //$defaultTypes = ['js', 'jsx', 'css', 'sass', 'scss', 'less', 'php', 'htm', 'html', 'yaml', 'md', 'txt'];
-		$defaultTypes = ['css', 'js', 'less', 'sass', 'scss', 'php', 'htm', 'html', 'yaml', 'md', 'txt', 'py', 'log','conf','map','json','log', 'out', 'ini', 'sh'];
+		$defaultTypes = ['css', 'js', 'less', 'sass', 'scss', 'php', 'htm', 'html', 'yaml', 'md', 'txt', 'py', 'log','conf','map','json','log', 'out', 'ini', 'sh', 'map'];
 
         $configTypes = Config::get('cms.editableAssetTypes');
         if (!$configTypes) {
